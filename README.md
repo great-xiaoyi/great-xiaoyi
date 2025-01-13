@@ -1,5 +1,5 @@
 ## 社交账户
-<i class="fa-brands fa-bilibili"></i>哔哩哔哩
+[<i class="fa-brands fa-bilibili"></i>哔哩哔哩](https://fontawesome.com/icons/bilibili?f=brands&s=solid)
 ## 我的博客
 
 ## 关于github
