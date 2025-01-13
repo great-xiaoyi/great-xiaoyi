@@ -1,5 +1,5 @@
 ## 社交账户
-<a href="https://space.bilibili.com/391457000?spm_id_from=333.788.0.0" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-b站-%231677ff?style=flat"/></a><b> ![图片](http://117.72.81.48/i/2025/01/13/6784b3544bc72.gif)
+<a href="https://space.bilibili.com/391457000?spm_id_from=333.788.0.0" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-b站-%231677ff?style=flat"/></a><br>![图片](http://117.72.81.48/i/2025/01/13/6784b3544bc72.gif)
 ## 我的博客
 <a href="xiaoyihome.top" target="_blank"><img  align=center src="https://img.shields.io/badge/博客-阿易不易-%231677ff?style=flat"/></a>
 ## 关于github
