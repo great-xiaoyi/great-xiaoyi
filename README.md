@@ -1,5 +1,5 @@
 ## 社交账户
-[<i class="fa-brands fa-bilibili"></i>哔哩哔哩](https://fontawesome.com/icons/bilibili?f=brands&s=solid)
+<a href="https://space.bilibili.com/391457000?spm_id_from=333.788.0.0" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-b站-%231677ff?style=flat"/></a>
 ## 我的博客
 
 ## 关于github
